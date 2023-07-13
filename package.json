@@ -1,0 +1,11 @@
+{
+  "name": "EUP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GeeMarkwell/EUP.git",
+  "author": "GeeGYMR <gee@drleaf.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
